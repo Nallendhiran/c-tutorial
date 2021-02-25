@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Cprogram Tutorial" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Cprogram Tutorial" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Cprogram Tutorial" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="add.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="arithmeticoperator.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="array.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="calling headerfile.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="define.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="dowhile.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="forloop.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="headerfile.h" />
+		<Unit filename="ifelse.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="input.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="logical.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="pointerArray.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="pointers.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="postpre.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="recursion.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="relational.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="shorthandoperator.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="struct.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="swappingnumbers.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="switch.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="typecasting.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="union.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="userdefined.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="while.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
